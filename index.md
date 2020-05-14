@@ -13,7 +13,6 @@ Video link: https://www.youtube.com/watch?v=NN1vbIbH3GE
 ## Interaction design between daily life and lighting ##
 My personal starting point is to design a lighting interaction design that can bring convenience or pleasure to people's daily life.
 
-The face mask emoji design was chosen as the final design among 4 design ideas. In the next phase, I'm going to try to make it out of different light materials, different masks. It will also try different ways to control the light expression, looking for the most suitable and convenient way for people to use it.
 In addition to Teamlab Light Ball, I have also studied several other works on lighting interaction design.
 
 
