@@ -16,6 +16,11 @@ My personal starting point is to design a lighting interaction design that can b
 In addition to Teamlab Light Ball, I have also studied several other works on lighting interaction design.
 
 
+
+
+
+
+
 Video link:https://www.youtube.com/watch?v=R10_4ciWxgI
 
 Catwalk panel is a touch sensitive led video panel which can bring a interactive element to any display, countertop, or wall.
