@@ -2,8 +2,10 @@
 
 In the assessment 2 phase, I chose the lighting as the vehicle for the interaction design. I wanted to explore and absorb more of this type of interaction design.
 
+This is an example of one of the studies. Teamlab light ball, Tokyo, Japan.
 
-When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
+![Image](11.png)Screenshot of Teamlab light ball video
+
 
 ## Project working title ##
 *Insert a name for the project as you conceive of it at the moment.*
