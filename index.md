@@ -13,7 +13,7 @@ Video link: https://www.youtube.com/watch?v=NN1vbIbH3GE
 ## Interaction design between daily life and lighting ##
 My personal starting point is to design a lighting interaction design that can bring convenience or pleasure to people's daily life.
 
-## Related projects ##
+The face mask emoji design was chosen as the final design among 4 design ideas. In the next phase, I'm going to try to make it out of different light materials, different masks. It will also try different ways to control the light expression, looking for the most suitable and convenient way for people to use it.
 In addition to Teamlab Light Ball, I have also studied several other works on lighting interaction design.
 
 
@@ -53,47 +53,46 @@ This is a light interaction design that helps people track and capture their ori
 
 Inspiration: people usually look in the mirror under a fixed light source. In order to cater to the light source, people often need to adjust their mirror when the position and angle. And this design is to let the light cater to us. You don't have to worry about the light finding you, even if you're looking in the mirror at close range.
 
-## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
-### *Brief resource name/description* ###
 
-*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
+## Mornmy hlep ##
 
-## Conceptual progress ##
+This is an interactive design that uses a Bluetooth link to the phone and a light sensor. By sound sensing, the lights come on. And send a signal to the linked phone. People can control the lights remotely from their mobile phones.
 
-### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
+![Image](3.jpg)Design Roadmap
 
-### Design concept 1 ###
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
+I've seen this kind of interactive lighting design on wireless linked phones on the Internet, and many people still comment that the reception is not very stable, which may be due to the incompatibility of the APPS. So at the technical level I found it a bit difficult to finish the design.
 
-*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 
-### Design concept 2 ###
-*Put details here.*
+## Gravity stool ##
 
-### Final design concept ###
-*This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
+The idea is that when people sit down, the stool will give them an interaction, and the change of light will bring a little fun to the space.
 
-### Interaction flowchart ###
-*Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
+This design was actually my first design idea, and it's the one I've been thinking about the longest.
+People usually sit on stools and are not fixed. Every once in a while, they adjust their posture to stay comfortable. During the adjustment, the weight of the stool will change. Light changes in color and brightness depending on gravity.
 
-![Image](missingimage.png)
+![Image](8.jpg)
 
-## Physical experimentation documentation ##
+![Image](7.jpg)Design ideas
 
-*In this section, show your progress including whichever of the following are appropriate for your project at this point.
-a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
-b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
-Ensure you include comments about the choices you've made along the way.*
 
-*You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
+## Emoji mask ##
 
-![Image](missingimage.png)
+Under the influence of the coronavirus, people are forced to wear masks when they go out. While masks can protect our health, they can mask the expressions and smiles on our faces. The original idea for this portal was to give people under the influence of the epidemic a little more pleasure in communication.
 
-## Design process discussion ##
-*Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
+![Image](4.jpg)Design Sketch
+
+![Image](5.jpg)How to make it
+
+I want to control the change of the light through the sound induction, complete the change of the light expression. That's what I want in this brief thought.
+
+In the next Phase I will try to see if the methods are feasible. If that doesn't work, other methods will be changed to control the light expression.
+
 
 ## Next steps ##
-*Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+The face mask emoji design was chosen as the final design among 4 design ideas. In the next phase, I'm going to try to make it out of different light materials, different masks. It will also try different ways to control the light expression, looking for the most suitable and convenient way for people to use it.
+
+
+
+
+## Thank you for reading ##
