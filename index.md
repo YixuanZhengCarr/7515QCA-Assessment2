@@ -14,10 +14,33 @@ Video link: https://www.youtube.com/watch?v=NN1vbIbH3GE
 My personal starting point is to design a lighting interaction design that can bring convenience or pleasure to people's daily life.
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
+In addition to Teamlab Light Ball, I have also studied several other works on lighting interaction design.
 
-### Related project 1 ###
-*Insert name of project*
+
+Video link:https://www.youtube.com/watch?v=R10_4ciWxgI
+
+Catwalk panel is a touch sensitive led video panel which can bring a interactive element to any display, countertop, or wall.
+
+
+Video link:https://www.youtube.com/watch?v=5zKCNq33YUM
+
+Interactive Pixel Wall. It captures the movement of People's bodies through light sensing.
+
+
+Video link:https://www.youtube.com/watch?v=5xUvqqSBWZM
+
+Interactive table with LED lighting that react with the environment.
+
+
+Video link:https://www.youtube.com/watch?v=w0OS3RpF3mE
+
+Lights can be changed in color and shape by the presence of visitors.
+
+Through the study and study of these lighting interaction design, let oneself have more design ideas and design ideas. Four original ideas for interactive design based on light sensing.
+
+
+### Mirror Lamp ###
+This is a light interaction design that helps people track and capture their orientation while looking in the mirror.
 
 *Insert URL to project*
 
