@@ -39,14 +39,19 @@ Lights can be changed in color and shape by the presence of visitors.
 Through the study and study of these lighting interaction design, let oneself have more design ideas and design ideas. Four original ideas for interactive design based on light sensing.
 
 
-### Mirror Lamp ###
+
+
+## Mirror Lamp ##
+
 This is a light interaction design that helps people track and capture their orientation while looking in the mirror.
 
-*Insert URL to project*
 
-![Image](1.jpg)
 
-This project is related to mine because *insert reasons here*.
+![Image](1.jpg)Design sketches
+
+![Image](2.jpg)Design principle
+
+Inspiration: people usually look in the mirror under a fixed light source. In order to cater to the light source, people often need to adjust their mirror when the position and angle. And this design is to let the light cater to us. You don't have to worry about the light finding you, even if you're looking in the mirror at close range.
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
