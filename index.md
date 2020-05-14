@@ -1,6 +1,7 @@
-# 1701QCA Making Interaction - Assessment 2 workbook
+# Interactive lighting design
 
-You will use this workbook to keep track of your progress through the course and also as a process journal to document the making of your projects. The comments in italics throughout the template give suggestions about what to include. Feel free to delete those instructions when you have completed the sections.
+In the assessment 2 phase, I chose the lighting as the vehicle for the interaction design. I wanted to explore and absorb more of this type of interaction design.
+
 
 When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
 
@@ -15,7 +16,7 @@ When you have completed the template, submit the link to the GitHub Pages site f
 
 *Insert URL to project*
 
-![Image](missingimage.png)
+![Image](1.jpg)
 
 This project is related to mine because *insert reasons here*.
 
